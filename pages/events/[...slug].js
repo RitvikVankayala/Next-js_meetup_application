@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import EventList from "../../components/event/Event-list";
 import { Fragment } from "react";
 import ResultsTitle from "../../components/results-title/results-title";
-import Button from "../../components/ui/button";
+import Button from "../../components/ui/Button";
 import Head from "next/head";
 
 function FilteredEvents(props) {
